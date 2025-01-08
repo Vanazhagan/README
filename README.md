@@ -15,8 +15,10 @@ src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"/>
 src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"/><img height="50" width="50"   src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"/>
 ### VIEW MY PROJECT
 <li><a href="https://app.powerbi.com/links/knvMIbGgXH?ctid=3ec2a808-270f-4abf-9cf8-e51ea36de866&pbi_source=linkShare"> POWER_BI Project</a></li>
-								
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
-![LeetCode Stats](https://leetcard.jacoblin.cool/vanazhagan?theme=dark&font=Marcellus&ext=contest)
+
+### GitHub stats
+![vanazhagan GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+
+
 
 
