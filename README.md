@@ -3,7 +3,7 @@
 ### Data Analyst  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF">
 
-- 🔭 Here's my [Portfolio](https://vanazhagan-portfolio-sit.netlify.app/)  
+- 🔭 Here's my [Portfolio](https://vanazhagan.netlify.app/)  
 - 🌱 I’m currently learning **AI**  
 - 📫 How to reach me:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/vanazhagan)
