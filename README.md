@@ -31,7 +31,7 @@
 
 ### View My Projects:
   ### Power BI Project:
-  - [HR HEADCOUNT ANALYSIS DASHBOARD ](https://app.powerbi.com/view?r=eyJrIjoiMDk3MDg3ZDMtN2NjYy00ZmE0LTg0ODItNjhjZGE0MjUyMTI1IiwidCI6IjNlYzJhODA4LTI3MGYtNGFiZi05Y2Y4LWU1MWVhMzZkZTg2NiJ9)
+  - [blinkit ](https://app.powerbi.com/view?r=eyJrIjoiYjI5ZmVmZjEtYmU5Zi00OWEzLTllNzctYThhNmYyNTFlNGMxIiwidCI6IjNlYzJhODA4LTI3MGYtNGFiZi05Y2Y4LWU1MWVhMzZkZTg2NiJ9)
   - [COFFEE SHOP SALES ANALYSIS](https://app.powerbi.com/view?r=eyJrIjoiYTE3MDNjYzUtZDgxZS00ZGZmLWEzZGEtYjYzNGY3Yjg1MDFmIiwidCI6IjNlYzJhODA4LTI3MGYtNGFiZi05Y2Y4LWU1MWVhMzZkZTg2NiJ9)
     
 ---
