@@ -53,9 +53,8 @@ Here are some of the technologies I work with:
 
 Here are a few highlights:
 
-**Power BI Dashboards:**
-*   **Blinkit Analysis:** Interactive dashboard analyzing sales and product data. [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI5ZmVmZjEtYmU5Zi00OWEzLTllNzctYThhNmYyNTFlNGMxIiwidCI6IjNlYzJhODA4LTI3MGYtNGFiZi05Y2Y4LWU1MWVhMzZkZTg2NiJ9)
-*   **Coffee Shop Sales:** Dashboard visualizing sales trends and performance metrics. [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE3MDNjYzUtZDgxZS00ZGZmLWEzZGEtYjYzNGY3Yjg1MDFmIiwidCI6IjNlYzJhODA4LTI3MGYtNGFiZi05Y2Y4LWU1MWVhMzZkZTg2NiJ9)
+*   **Uber Trip Data Analysis:** Exploration of Uber trip patterns and metrics. [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTEyYTY4YTItMDU4YS00YzI1LWEwYmItZmJjOTc5MjIyZjEyIiwidCI6IjNlYzJhODA4LTI3MGYtNGFiZi05Y2Y4LWU1MWVhMzZkZTg2NiJ9)
+*   **Spotify Dashboard:** Analysis of listening habits and music trends. [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2I3YzQ3OGItMTI4ZC00MGNmLTgwOTUtZmU5ZDM2ZGVkZjg2IiwidCI6IjNlYzJhODA4LTI3MGYtNGFiZi05Y2Y4LWU1MWVhMzZkZTg2NiJ9)
 
 **Other Projects:**
 *   **[Your Python Project Name]:** Brief description (e.g., Analyzed X dataset using Pandas and visualized results with Matplotlib/Seaborn). `[GitHub Repo]`(link-to-your-repo) <!-- ***** ADD Your Project Details ***** -->
