@@ -56,22 +56,9 @@ Here are a few highlights:
 *   **Uber Trip Data Analysis:** Exploration of Uber trip patterns and metrics. [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTEyYTY4YTItMDU4YS00YzI1LWEwYmItZmJjOTc5MjIyZjEyIiwidCI6IjNlYzJhODA4LTI3MGYtNGFiZi05Y2Y4LWU1MWVhMzZkZTg2NiJ9)
 *   **Spotify Dashboard:** Analysis of listening habits and music trends. [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2I3YzQ3OGItMTI4ZC00MGNmLTgwOTUtZmU5ZDM2ZGVkZjg2IiwidCI6IjNlYzJhODA4LTI3MGYtNGFiZi05Y2Y4LWU1MWVhMzZkZTg2NiJ9)
 
-**Other Projects:**
-*   **[Your Python Project Name]:** Brief description (e.g., Analyzed X dataset using Pandas and visualized results with Matplotlib/Seaborn). `[GitHub Repo]`(link-to-your-repo) <!-- ***** ADD Your Project Details ***** -->
-*   **[Your SQL Project Name]:** Brief description (e.g., Designed and queried a database for Y application). `[GitHub Repo]`(link-to-your-repo) <!-- ***** ADD Your Project Details ***** -->
-*   *(Add more projects here!)*
 
----
 
-### 📈 My GitHub Stats *(Optional)*
 
-<!-- ***** REPLACE `YOUR_GITHUB_USERNAME` with your actual GitHub username ***** -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vanazhagan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
 
 
 
