@@ -4,7 +4,7 @@
 
 <img align="right" width="350" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF">
 
-- 🔭 Check out my Portfolio: **[vanazhagan.netlify.app](https://vanazhagan.netlify.app/)**
+- 🔭 Check out my Portfolio: [Link](https://vanazhagan-profile-hub.netlify.app/)
 - 🌱 I’m currently learning **AI & Machine Learning** techniques.
 - 🤔 I’m interested in leveraging data to drive business decisions.
 - 📫 How to reach me:
